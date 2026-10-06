@@ -5,19 +5,13 @@
 <h1 align="center">Hola &nbsp;<img src="icons/wave.gif" width="48">, soy Sergio Eliseo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565C0&center=true&vCenter=true&width=435&lines=Lic.+en+Informática;Full-Stack+Developer;Backend+•+Frontend+•+Móvil;Java+•+Python+•+C%23;React+•+React+Native;Docker+•+Linux+•+SQL;Apasionado+por+la+tecnología" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Full-Stack Developer | Mobile & Web | Linux · Docker · SQL
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565C0&center=true&vCenter=true&width=435&lines=Lic.+en+Informática;Backend+•+Frontend+•+Móvil;Java+•+Python+•+C%23;React+•+React+Native;Docker+•+Linux+•+SQL;Apasionado+por+la+tecnología" alt="Typing SVG" />
 </p>
 
 <!-- Sección secundaria: redes sociales y contacto -->
 
 <div align="center">
 <div align="center">
-  <h2>🌐 Conecta conmigo</h2>
-  <p>¡Descubre mi trabajo y conecta conmigo en estas plataformas!</p>
 
 | GitHub | LinkedIn |
 | --- | --- |
@@ -34,7 +28,7 @@
 <!-- -------------------------------------- -->
 
 <h2 align="center">🚀 Sobre mí</h2>
-Egresado de la Licenciatura en Informática y desarrollador con experiencia en el ciclo completo de software (requerimientos → despliegue). Manejo tecnologías como Python/Flask, React, React Native y bases de datos SQL/NoSQL, con enfoque en despliegues mediante Docker y Linux. Apasionado por el trabajo colaborativo y la arquitectura de datos, busco seguir creciendo profesionalmente en equipos tecnológicos dinámicos.
+Egresado de la Licenciatura en Informática, con experiencia en desarrollo web y móvil, bases de datos y despliegue de soluciones en Linux con Docker. Participación en distintas etapas del ciclo de vida del software, desde el análisis de requerimientos hasta la implementación, pruebas y puesta en producción.
 <br>
 
 <!-- Sección secundaria: estadísticas de GitHub -->
@@ -185,11 +179,6 @@ Egresado de la Licenciatura en Informática y desarrollador con experiencia en e
         <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
         <br>
         .NET
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-        <br>
-        JavaScript
       </td>
     </tr>
     <tr>
