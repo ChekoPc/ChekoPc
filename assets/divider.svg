@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 20" role="presentation" aria-hidden="true">
+  <style>:root{--ln:#D0D7DE;--ac:#D93A17}@media (prefers-color-scheme:dark){:root{--ln:#30363D;--ac:#FF6A45}}</style>
+  <line x1="24" y1="10" x2="1000" y2="10" stroke="var(--ln)" stroke-width="1.5"/>
+  <rect x="0" y="4" width="12" height="12" fill="var(--ac)"/>
+</svg>

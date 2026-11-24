@@ -1,414 +1,107 @@
-<!-- -------------------------------------- -->
-<!-- Sección principal: presentación del perfil -->
-<!-- -------------------------------------- -->
-
-<h1 align="center">Hola &nbsp;<img src="icons/wave.gif" width="48">, soy Sergio Eliseo</h1>
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Sergio Eliseo — Lic. en Informática. Backend, Frontend y Móvil. Java, Python y C#. React y React Native. Docker, Linux y SQL. Apasionado por la tecnología." />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565C0&center=true&vCenter=true&width=435&lines=Lic.+en+Informática;Backend+•+Frontend+•+Móvil;Java+•+Python+•+C%23;React+•+React+Native;Docker+•+Linux+•+SQL;Apasionado+por+la+tecnología" alt="Typing SVG" />
+  <a href="#perfil"><b>Perfil</b></a> &nbsp;/&nbsp;
+  <a href="#stack"><b>Stack</b></a> &nbsp;/&nbsp;
+  <a href="#actividad"><b>Actividad</b></a> &nbsp;/&nbsp;
+  <a href="#contacto"><b>Contacto</b></a>
 </p>
-
-<!-- Sección secundaria: redes sociales y contacto -->
-
-<div align="center">
-<div align="center">
-
-| GitHub | LinkedIn |
-| --- | --- |
-| [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FChekoPc&subtitle=ChekoPc&size=square)](https://github.com/ChekoPc) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F&subtitle=Sergio+Eliseo&size=square)](https://www.linkedin.com/in/sergio-eliseo-pe%C3%B1a-calder%C3%B3n-138b02307/) |
-
-<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChekoPc&color=blue&style=for-the-badge&label=Vistas+de+perfil" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=ChekoPc&color=D93A17&style=flat-square&label=Vistas+de+perfil" alt="Vistas de perfil" />
 </p>
 
-<!-- -------------------------------------- -->
-<!-- Sección principal: información profesional -->
-<!-- -------------------------------------- -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">🚀 Sobre mí</h2>
-Egresado de la Licenciatura en Informática, con experiencia en desarrollo web y móvil, bases de datos y despliegue de soluciones en Linux con Docker. Participación en distintas etapas del ciclo de vida del software, desde el análisis de requerimientos hasta la implementación, pruebas y puesta en producción.
-<br>
+## Perfil
 
-<!-- Sección secundaria: estadísticas de GitHub -->
+> Egresado de la **Licenciatura en Informática**, con experiencia en **desarrollo web y móvil**, **bases de datos** y **despliegue de soluciones en Linux con Docker**.
 
-<h3 align="center">Estadísticas de Git</h3>
+He participado en distintas etapas del ciclo de vida del software, desde el análisis de requerimientos hasta la implementación, pruebas y puesta en producción.
 
-<div align="center">
-<!-- Racha de GitHub -->
-<img src="https://streak-stats.demolab.com/?user=ChekoPc&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-<br>
+<img src="assets/lifecycle.svg" width="100%" alt="Ciclo de vida del software: 01 análisis de requerimientos, 02 implementación, 03 pruebas, 04 puesta en producción." />
 
-<!-- Gráfico de actividad de GitHub -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChekoPc&custom_title=ChekoPc's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,react,docker,linux,mysql&theme=dark" alt="Java, Python, C#, React, Docker, Linux y SQL" height="48" />
+  <br />
+  <sub>Backend • Frontend • Móvil &nbsp;/&nbsp; Java • Python • C# &nbsp;/&nbsp; React • React Native &nbsp;/&nbsp; Docker • Linux • SQL</sub>
+  <br />
+  <sub><i>Apasionado por la tecnología.</i></sub>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChekoPc&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChekoPc&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- Tarjeta de resumen del perfil -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChekoPc&theme=highcontrast&hide_border=true" alt="ChekoPc's Profile Details">
+## Stack
 
+### Desarrollo web
 
-### Gráfico de Contribuciones de GitHub
-<a href="https://github.com/ChekoPc">
-    <img src="https://ghchart.rshah.org/ChekoPc" alt="ChekoPc's GitHub Contribution Chart">
-</a>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ChekoPc" alt="Advanced GitHub Stats for ChekoPc" width="400">
+**Frontend**<br />
+<a href="https://react.dev/"><kbd>React</kbd></a>
+<a href="https://reactnative.dev/"><kbd>React Native</kbd></a>
+<a href="https://www.typescriptlang.org/"><kbd>TypeScript</kbd></a>
+<a href="https://jinja.palletsprojects.com/"><kbd>Jinja2</kbd></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><kbd>HTML5</kbd></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><kbd>CSS3</kbd></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><kbd>JavaScript</kbd></a>
+<a href="https://www.figma.com/"><kbd>Figma</kbd></a>
 
-<!-- -------------------------------------- -->
-<!-- Sección principal: tecnologías y herramientas -->
-<!-- -------------------------------------- -->
+**Backend**<br />
+<kbd>Python</kbd> <kbd>Flask</kbd> <kbd>Node.js</kbd> <kbd>.NET</kbd> <kbd>C#</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>C</kbd> <kbd>Express</kbd>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Stack Tecnológico</h1>
+### Bases de datos
 
-<!-- Sección secundaria: desarrollo web -->
+**SQL / Relacionales**<br />
+<kbd>MySQL</kbd> <kbd>MariaDB</kbd>
 
-<h3 align="center">Desarrollo Web</h3>
+**NoSQL / Big Data**<br />
+<kbd>Apache Cassandra</kbd> <kbd>Hadoop</kbd>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">
-        Frontend
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://react.dev/" style="color: white;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-      </a>
-      <br>
-      React
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://reactnative.dev/" style="color: white;">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React Native"/>
-      </a>
-      <br>
-      React Native
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.typescriptlang.org/" style="color: white;">
-        <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
-      </a>
-      <br>
-      TypeScript
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://jinja.palletsprojects.com/" style="color: white;">
-        <img src="https://cdn.simpleicons.org/jinja" width="50" height="50" alt="Jinja2"/>
-      </a>
-      <br>
-      Jinja2
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
-      </a>
-      <br>
-      HTML5
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
-      </a>
-      <br>
-      CSS3
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-      </a>
-      <br>
-      JavaScript
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.figma.com/" style="color: white;">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
-      </a>
-      <br>
-      Figma
-    </td>
-  </tr>
-</tbody>
-</table>
-</div>
+### Computación en la nube y DevOps
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">
-        Backend
-      </th>
-    </tr>
-  </thead>
-    <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-        <br>
-        Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
-        <br>
-        Flask
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
-        <br>
-        Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
-        <br>
-        .NET
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
-        <br>
-        C#
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-        <br>
-        Java
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="Kotlin"/>
-        <br>
-        Kotlin
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/>
-        <br>
-        C
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
-        <br>
-        Express
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+**Contenerización y orquestación**<br />
+<kbd>Docker</kbd> <kbd>Docker Compose</kbd> <kbd>NGINX</kbd> <kbd>Servidor Apache</kbd> <kbd>MinIO</kbd>
 
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="4" align="center" style="color: white;">Base de Datos</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th colspan="4" align="center" style="color: white; border: none;">
-          SQL / Relacionales
-        </th>
-      </tr>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-          <br>
-          MySQL
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.simpleicons.org/mariadb" alt="MariaDB" width="50" height="50"/>
-          <br>
-          MariaDB
-        </td>
-      </tr>
-      <tr>
-        <th colspan="4" align="center" style="color: white; border: none;">
-          NoSQL / Big Data
-        </th>
-      </tr>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=cassandra" alt="Apache Cassandra" width="50" height="50"/>
-          <br>
-          Apache Cassandra
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.simpleicons.org/apachehadoop" alt="Hadoop" width="50" height="50"/>
-          <br>
-          Hadoop
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+### Sistemas operativos
 
-<!-- Sección secundaria: computación en la nube y DevOps -->
+<kbd>Windows</kbd> <kbd>Linux</kbd> <kbd>Debian</kbd> <kbd>Ubuntu</kbd> <kbd>Arch</kbd> <kbd>Manjaro</kbd> <kbd>Puppy Linux</kbd>
 
-<h3 align="center">Computación en la Nube y DevOps</h3>
+### Herramientas de IA e ingeniería de prompts
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Contenerización y Orquestación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <td align="center" style="border: none;">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
-      <br>
-      Docker
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker Compose" width="50" height="50"/>
-      <br>
-      Docker Compose
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="50" height="50"/>
-      <br>
-      NGINX
-    </td>
-    <td align="center" style="border: none;">
-      <img src="icons/Apache.png" alt="Linux / Debian" width="50" height="50"/>
-      <br>
-      Servidor Apache
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.simpleicons.org/minio" alt="MinIO" width="50" height="50"/>
-      <br>
-      MinIO
-    </td>
-  </tr>
-  </tbody>
-</table>
-</div>
+<kbd>ChatGPT</kbd> <kbd>GitHub Copilot</kbd> <kbd>Claude</kbd> <kbd>Figma Make</kbd> <kbd>v0</kbd> <kbd>Google Gemini</kbd> <kbd>DeepSeek</kbd>
 
-<!-- Sección secundaria: Sistemas Operativos -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<h3 align="center">Sistemas Operativos</h3>
+## Actividad
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="7" align="center" style="color: white;">Sistemas Operativos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="icons/windows.gif" alt="Windows" width="50" height="50"/>
-        <br>
-        Windows
-      </td>
-      <td align="center" style="border: none;">
-        <img src="icons/Linux.gif" alt="Linux" width="50" height="50"/>
-        <br>
-        Linux
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="50" height="50"/>
-        <br>
-        Debian
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="50" height="50"/>
-        <br>
-        Ubuntu
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width="50" height="50"/>
-        <br>
-        Arch
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.simpleicons.org/manjaro" alt="Manjaro" width="50" height="50"/>
-        <br>
-        Manjaro
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Puppy_logo.svg/960px-Puppy_logo.svg.png" alt="Puppy Linux" width="50" height="50"/>
-        <br>
-        Puppy Linux
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ChekoPc&theme=dark&background=0D1117&ring=FF5C39&fire=FF5C39&currStreakNum=EDE8DF&sideNums=EDE8DF&currStreakLabel=FF5C39&sideLabels=8B949E&dates=8B949E&stroke=30363D&hide_border=true&border_radius=16" width="100%" alt="GitHub Streak" />
+</p>
 
-<!-- Sección secundaria: Herramientas de IA e Ingeniería de Prompts -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChekoPc&custom_title=ChekoPc's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=16&bg_color=0D1117&color=8B949E&line=FF5C39&point=EDE8DF&area_color=FF5C39&title_color=EDE8DF&area=true" width="100%" alt="GitHub Activity Graph" />
+</p>
 
-<h3 align="center">Herramientas de IA e Ingeniería de Prompts</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChekoPc&theme=github_dark&hide_border=true" width="49%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChekoPc&theme=github_dark&hide_border=true" width="49%" alt="Most Commit Language" />
+</p>
 
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="7" align="center" style="color: white;">Herramientas de IA e Ingeniería de Prompts</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
-          <br>
-          ChatGPT
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="50" height="50"/>
-          <br>
-          GitHub Copilot
-        </td>
-        <td align="center" style="border: none;">
-          <img src="icons/Claude.gif" alt="Claude" width="50" height="50"/>
-          <br>
-          Claude
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=figma" alt="Figma Make" width="50" height="50"/>
-          <br>
-          Figma Make
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.simpleicons.org/v0" alt="v0" width="50" height="50"/>
-          <br>
-          v0
-        </td>
-        <td align="center" style="border: none;">
-          <img src="icons/Gemini.gif" alt="Google Gemini" width="50" height="50"/>
-          <br>
-          Google Gemini
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="50" height="50"/>
-          <br>
-          DeepSeek
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChekoPc&theme=github_dark&hide_border=true" width="49%" alt="ChekoPc's Profile Details" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ChekoPc" width="40%" alt="Advanced GitHub Stats for ChekoPc" />
+</p>
 
-<h3>
-<div align="center">
+### Gráfico de contribuciones de GitHub
 
-</div>
-</h3>
+<a href="https://github.com/ChekoPc"><img src="https://ghchart.rshah.org/FF5C39/ChekoPc" width="100%" alt="ChekoPc's GitHub Contribution Chart" /></a>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Contacto
+
+<p align="center">
+  <a href="https://github.com/ChekoPc"><img src="assets/contact-github.svg" width="49%" alt="GitHub: ChekoPc" /></a>
+  <a href="https://www.linkedin.com/in/sergio-eliseo-pe%C3%B1a-calder%C3%B3n-138b02307/"><img src="assets/contact-linkedin.svg" width="49%" alt="LinkedIn: Sergio Eliseo" /></a>
+</p>
